@@ -6,4 +6,18 @@
   justify-content: center;
   height: 100vh;
 }
+@media only screen and (max-width: 1024px){
+  .App{
+    font-size: 18px;
+ 
+  }
+ 
+}
+
+@media only screen and (min-width: 700px){
+  .App{
+    font-size: 28px;
+
+  }
+}
 
