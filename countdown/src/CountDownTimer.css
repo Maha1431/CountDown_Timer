@@ -1,0 +1,23 @@
+.timer{
+display: flex;
+justify-content: center;
+flex-direction: row;
+
+
+}
+.btn{
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 10px;
+}
+.val{
+  text-align: center;
+}
+.error{
+  color: rgb(99, 2, 155);
+}
